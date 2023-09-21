@@ -73,6 +73,15 @@ RuntimeError: Division by zero error!
 ```
 > Here is an example of y=using a codeblock that appears in bash.
 
+## Step 2 - How to take screenshots
+
+A screenshot is when you capture part of your screen from your laptop, desktop or phone.
+
+This is not to be confused with a photo with your phone.
+
+**DON'T DO THIS**
+
+
 ## Step 3 - Use Github Flavoured Task Lists
 
 Github extends Markdown to have a list where you can check off items.  [<sup>[1]</sup>](#external-references)
